@@ -13,5 +13,13 @@
   "devDependencies": {
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uspaz/Order-summary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uspaz/Order-summary/issues"
+  },
+  "homepage": "https://github.com/uspaz/Order-summary#readme"
 }
